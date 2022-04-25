@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ankan Mondal</h1>
 <h3 align="center">Front End Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=@Ankan43008901&label=Profile%20views&color=0e75b6&style=flat" alt="ankanmondal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankanmondal&label=Profile%20views&color=0e75b6&style=flat" alt="ankanmondal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ankan mondal" target="blank"><img src="https://img.shields.io/twitter/follow/ankan mondal?logo=twitter&style=for-the-badge" alt="ankan mondal" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@ankan43008901" target="blank"><img src="https://img.shields.io/twitter/follow/@ankan43008901?logo=twitter&style=for-the-badge" alt="@ankan43008901" /></a> </p>
 
 - 📫 How to reach me **ankanmondal547@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ankan mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankan mondal" height="30" width="40" /></a>
+<a href="https://twitter.com/@ankan43008901" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ankan43008901" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankan mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankan mondal" height="30" width="40" /></a>
 <a href="https://fb.com/ankan mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ankan mondal" height="30" width="40" /></a>
 <a href="https://instagram.com/@ansh124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ansh124" height="30" width="40" /></a>
