@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ankan Mondal</h1>
+<h1 align="center">Hello 👋</h1>
 <h3 align="center">Front End Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankanmondal&label=Profile%20views&color=0e75b6&style=flat" alt="ankanmondal" /> </p>
